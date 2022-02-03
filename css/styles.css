@@ -24,6 +24,10 @@ h3 {
     font-size: 1.5rem;
 }
 
+p {
+    color: #8f8f8f;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -58,3 +62,21 @@ h3 {
 }
 
 /* Features */
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.feature-image {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.feature-image:hover {
+    color: #ff4c68;
+}
