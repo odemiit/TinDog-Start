@@ -136,3 +136,14 @@ p {
 .price-card {
     padding: 3% 2%;
 }
+
+@media (max-width: 1024px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
