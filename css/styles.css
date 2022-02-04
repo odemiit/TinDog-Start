@@ -137,6 +137,33 @@ p {
     padding: 3% 2%;
 }
 
+/* Call To Action Section*/
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.cta-header {
+    font-family: "Montserrat-Black";
+    color: #fff;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+/* Footer Section */
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.footer-icon {
+    margin: 20px 10px;
+}
+
 @media (max-width: 1024px) {
     #title {
         text-align: center;
@@ -147,3 +174,5 @@ p {
         transform: rotate(0);
     }
 }
+
+
